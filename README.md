@@ -1,6 +1,6 @@
 <h1 align="center">Programmer: A machine that turns coffee into code</h1> 
 <p align="center">
-  <br><br>Hello! I'm James Abrenica, a dedicated Information Technology student at Mapua University with a deep passion for software development. My focus is on creating innovative and efficient solutions by leveraging cutting-edge technologies. I'm excited about the endless possibilities in tech and eager to connect with like-minded professionals and collaborators.
+  <br><br>Hello! I'm James Abrenica, a dedicated Information Technology graduate student at Mapua University with a deep passion for software development. My focus is on creating innovative and efficient solutions by leveraging cutting-edge technologies. I'm excited about the endless possibilities in tech and eager to connect with like-minded professionals and collaborators.
 </p>
 
 <h2 align="center">Skills and Tech Stack</h2>
