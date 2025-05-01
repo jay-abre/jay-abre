@@ -1,6 +1,6 @@
 <h1 align="center">Programmer: A machine that turns coffee into code</h1> 
 <p align="center">
-  <br><br>Hello! I'm James Abrenica, a backend developer specializing in building scalable and efficient applications. I focus on creating solutions using technologies like Java, Spring Boot, and Python, with an emphasis on clean architecture, testable code, and RESTful APIs. I'm passionate about leveraging cutting-edge tools and principles like TDD and SOLID to deliver reliable, maintainable software. I'm always excited about the potential of tech and look forward to connecting with professionals who share my enthusiasm for innovation.
+  <br><br>Hello! I'm Jay, a backend developer specializing in building scalable and efficient applications. I focus on creating solutions using technologies like Java, Spring Boot, and Python, with an emphasis on clean architecture, testable code, and RESTful APIs. I'm passionate about leveraging cutting-edge tools and principles like TDD and SOLID to deliver reliable, maintainable software. I'm always excited about the potential of tech and look forward to connecting with professionals who share my enthusiasm for innovation.
 </p>
 
 
